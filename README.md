@@ -16,7 +16,10 @@ The aim is to assist healthcare providers in identifying at-risk patients early,
 
  📊 Dataset
 - **Source:** UCI Machine Learning Repository  
-- **Kaggle :** Diabetes or Heart Disease dataset  
+- **Kaggle :** Diabetes or Heart Disease dataset
+- **Sample** :
+  <img width="1007" height="276" alt="image" src="https://github.com/user-attachments/assets/119b9823-24b3-451a-b1f7-bb7452ce9473" />
+
 
  🧠 Machine Learning Workflow
 1. **Data Preprocessing**
@@ -51,6 +54,12 @@ The aim is to assist healthcare providers in identifying at-risk patients early,
 🏁 Conclusion
 
 The Healthcare Predictive Analytics project demonstrates how data-driven insights and predictive modeling can improve healthcare decision-making and disease prevention. Future improvements may include integrating deep learning models and real-time patient monitoring systems.
+
+Output like :
+
+
+<img width="496" height="52" alt="image" src="https://github.com/user-attachments/assets/7a14158a-073d-4c89-af3f-e718469283c7" />
+
 
 
 
