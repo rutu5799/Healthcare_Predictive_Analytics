@@ -10,7 +10,7 @@ The aim is to assist healthcare providers in identifying at-risk patients early,
 - Analyze healthcare datasets to identify significant patterns and correlations.  
 - Build and compare machine learning models to predict disease risk.  
 - Evaluate model performance using multiple metrics.  
-- Develop an interactive Power BI dashboard for visualization.
+
 
 
 
@@ -27,17 +27,7 @@ The aim is to assist healthcare providers in identifying at-risk patients early,
    - Normalizing numerical data  
    - Encoding categorical variables  
 
-2. Exploratory Data Analysis (EDA)
-   - Distribution of key features  
-   - Correlation heatmaps  
-   - Outlier detection  
-
-3. **Model Building**
-   - Logistic Regression  
-   - Random Forest Classifier  
-   - XGBoost / Decision Tree  
-
-4. **Evaluation Metrics**
+2. **Evaluation Metrics**
    - Accuracy  
    - Precision, Recall, F1-Score  
    - ROC-AUC Curve  
